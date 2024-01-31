@@ -156,11 +156,13 @@ namespace SoManyPermutations.Specs
         {
             inputs = new string[]
             {
-                "aab"
+                //"aab",
+                "aabb"
             };
             expected = new List<string>[]
             {
-                new List<string> { "aab", "aba", "baa" }
+                //new List<string> { "aab", "aba", "baa" },
+                new List<string> { "aabb","abab","abba","baab","baba","bbaa" }
             };
             answers = new List<string>[inputs.Length];
         };

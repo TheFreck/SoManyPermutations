@@ -13,7 +13,11 @@
             {
                 perms = Permute(inputArray, perms);
             }
-            return perms;
+            foreach(var p in perms)
+            {
+                permHash.Add(p);
+            }
+            return permHash.ToList();
         }
 
         public static List<string> Permute(string[] inputs, List<string> outputs)
@@ -23,7 +27,17 @@
             {
                 for (var j = 0; j < inputs.Length; j++)
                 {
-                    if (outputs[i].Contains(inputs[j])) continue;
+                    //var inputI = inputs[i];
+                    //var outputI = outputs[i];
+                    //var inputJ = inputs[j];
+                    //var outputJ = outputs[j];
+                    //var count  = inputs.Count(o => o.Equals(inputI));
+                    //var county = outputs[i].Count(o => o.ToString().Equals(inputI));
+                    if (outputs[i].Count(o => o.ToString().Equals(inputs[j])) >= inputs.Count(o => o.Equals(inputs[j])))
+                    {
+                        continue;
+                    }
+                    //if (outputs[i].Contains(inputs[j])) continue;
                     permList.Add(outputs[i] + inputs[j]);
                 }
             }
