@@ -1,0 +1,14 @@
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\bin\Debug\net8.0\SoManyPermutations.exe
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\bin\Debug\net8.0\SoManyPermutations.deps.json
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\bin\Debug\net8.0\SoManyPermutations.runtimeconfig.json
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\bin\Debug\net8.0\SoManyPermutations.dll
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\bin\Debug\net8.0\SoManyPermutations.pdb
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.AssemblyInfoInputs.cache
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.AssemblyInfo.cs
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.csproj.CoreCompileInputs.cache
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.dll
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\obj\Debug\net8.0\refint\SoManyPermutations.dll
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.pdb
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\obj\Debug\net8.0\SoManyPermutations.genruntimeconfig.cache
+C:\Users\chris.freckleton\source\repos\Katas\SoManyPermutations\SoManyPermutations\obj\Debug\net8.0\ref\SoManyPermutations.dll
