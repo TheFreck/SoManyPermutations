@@ -65,8 +65,8 @@ namespace SoManyPermutations.Specs
                 new List<string> { "ab", "ba"},
                 new List<string> { "abc", "acb", "bac", "bca", "cab", "cba"},
                 new List<string> { "abcd", "abdc", "acbd", "acdb", "adbc", "adcb", "bacd", "badc", "bcad", "bcda", "bdac", "bdca", "cabd", "cadb", "cbad", "cbda", "cdab", "cdba", "dabc", "dacb", "dbac", "dbca", "dcab", "dcba"},
-                new List<string> {},
-                new List<string> {}
+                new List<string> {/*this is added programatically below*/},
+                new List<string> {/*this is added programatically below*/}
             };
 
             for(var a=0; a<5; a++)
